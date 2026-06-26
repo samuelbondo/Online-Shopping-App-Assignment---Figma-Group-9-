@@ -17,9 +17,9 @@ Samuel Store – Jewelry E-Commerce Mobile Application Prototype
 ## Group Information
 - Group: 9
 - Members Registration Numbers:
-  - 23527/2023
-  - 23581/2023
-  - 24217/2024
+  - Samuel Bondo – 23527/2023
+  - Theophilus N. Wherdaigar – 23581/2023
+  - Member 3 – 24217/2024 (Name to be confirmed)
 
 ---
 
@@ -49,11 +49,9 @@ Key characteristics:
 ---
 
 ## User Flow
-The application follows a simple and intuitive navigation flow:
+The application follows a simple navigation flow:
 
 Login → Home → Product Details → Cart → Checkout → Payment → Confirmation
-
-This flow ensures a smooth end-to-end shopping experience from entry to order completion.
 
 (See `/user-flow` folder for diagram)
 
@@ -62,29 +60,29 @@ This flow ensures a smooth end-to-end shopping experience from entry to order co
 ## Wireframes (Low-Fidelity Design)
 Wireframes were created to define layout structure before final UI design.
 
-They include:
-- Login/Register Screen layout
-- Home Page structure
-- Product listing layout
-- Product detail layout
-- Cart layout
-- Checkout layout
+Includes:
+- Login/Register Screen
+- Home Page
+- Product Listing Page
+- Product Details Page
+- Cart Page
+- Checkout Page
 
-Focus was on structure, spacing, and usability without visual styling.
+Focus was on structure and usability without visual styling.
 
 (See `/wireframes` folder)
 
 ---
 
 ## High-Fidelity UI Design
-The final UI was designed using Figma with:
-- Consistent color theme (purple accent: #6C63FF)
+Final UI designed using Figma with:
+- Consistent color theme
 - Modern typography (Inter/Poppins)
 - Icons and product images
+- Mobile-first responsive layout
 - Proper spacing and alignment
-- Mobile-first responsive design
 
-Screens included:
+Screens:
 - Splash Screen
 - Login Screen
 - Home Screen
@@ -97,62 +95,55 @@ Screens included:
 
 ---
 
+## Prototype Screens
+This folder contains exported prototype preview images showing full user interaction flow.
+
+(See `/prototype` folder)
+
+---
+
 ## Interactive Prototype
 A fully clickable prototype was created in Figma demonstrating:
 
 - Splash → Login navigation
 - Login → Home navigation
 - Product selection flow
-- Add to Cart interaction
+- Cart process
 - Checkout process
-- Payment confirmation flow
-
-This simulates a real e-commerce user experience.
+- Confirmation flow
 
 ---
 
 ## Accessibility Considerations
-The design follows accessibility principles:
-- Clear and readable font sizes
-- High contrast between text and background
-- Simple and consistent navigation
+- Clear typography
+- High contrast colors
+- Consistent UI layout
 - Large touch-friendly buttons
-- Clean layout structure for usability
+- Simple navigation structure
 
 ---
 
 ## Features Implemented
-- User authentication UI (Login screen)
-- Product browsing interface
-- Product detail view
-- Shopping cart UI
-- Checkout system design
-- Payment simulation screen
-- Order confirmation screen
-- Fully interactive navigation prototype
-
----
-
-## Design Process
-The project followed a structured UI/UX workflow:
-1. User Flow definition
-2. Wireframe design
-3. High-fidelity UI design
-4. Prototype interaction setup
-5. Testing and refinement
+- Authentication UI
+- Product browsing
+- Product details view
+- Cart system UI
+- Checkout system
+- Payment confirmation screen
+- Fully interactive prototype
 
 ---
 
 ## Challenges Faced
-- Aligning UI consistency across all screens
-- Ensuring proper spacing and alignment in mobile layout
-- Connecting prototype interactions correctly in Figma
-- Maintaining clean navigation flow
+- Maintaining UI consistency across screens
+- Aligning spacing and layout structure
+- Managing prototype connections correctly in Figma
+- Ensuring smooth navigation flow
 
 ---
 
 ## Conclusion
-This project demonstrates a complete e-commerce UI/UX design process from planning to interactive prototype. It focuses on usability, simplicity, and a modern shopping experience using Figma design principles.
+This project demonstrates a complete e-commerce UI/UX design process using Figma, covering wireframing, high-fidelity design, and interactive prototyping.
 
 ---
 
@@ -161,6 +152,7 @@ This project demonstrates a complete e-commerce UI/UX design process from planni
 /user-persona
 /wireframes
 /high-fidelity
+/prototype
 README.md
 
 ---
@@ -169,3 +161,6 @@ README.md
 https://www.figma.com/design/Z9hwQE64J5LxPz3DHr80p4/Online-Shopping-App?node-id=83-34&t=GXpRyMDXT5gQIzc5-1
 
 ---
+
+## Submission Note
+This project follows UNILAK EWA408510 assignment requirements and demonstrates UI/UX design, wireframing, prototyping, and accessibility principles.
