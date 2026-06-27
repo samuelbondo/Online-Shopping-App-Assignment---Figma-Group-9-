@@ -20,7 +20,7 @@
 ### Members
 - Samuel Bondo — Registration Number: 23527/2023
 - Theophilus N. Wherdaigar — Registration Number: 23581/2023
-- Registration Number: 24217/2024
+- Guillaume UWINGABIRE — Registration Number: 24217/2024
 
 ---
 
