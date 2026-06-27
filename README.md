@@ -1,88 +1,118 @@
 # Samuel Store – Online Shopping App (Figma Group 9)
 
 ## Course Information
-- Course Code: EWA408510 – E-Commerce and Web Application
-- Institution: University of Lay Adventists of Kigali (UNILAK)
-- Academic Year: 2025–2026
-- Semester: II
-- Assessment: Group Assignment II – Figma UI/UX Prototype Design
+- **Course Code:** EWA408510 – E-Commerce and Web Application
+- **Institution:** University of Lay Adventists of Kigali (UNILAK)
+- **Academic Year:** 2025–2026
+- **Semester:** II
+- **Assessment:** Group Assignment II – Designing a User-Friendly Mobile or Web Application Prototype Using Figma
 
 ---
 
 ## Project Title
-Samuel Store – Jewelry E-Commerce Mobile Application Prototype
+**Samuel Store – Jewelry E-Commerce Mobile Application Prototype**
 
 ---
 
 ## Group Information
-- Group: 9
-- Members Registration Numbers:
-  - Samuel Bondo – 23527/2023
-  - Theophilus N. Wherdaigar – 23581/2023
-  - Member 3 – 24217/2024 (Name to be confirmed)
+- **Group:** 9
+
+### Members
+- Samuel Bondo — Registration Number: 23527/2023
+- Theophilus N. Wherdaigar — Registration Number: 23581/2023
+- Registration Number: 24217/2024
 
 ---
 
-## Selected System
-Online Shopping Application (Jewelry Store – Samuel Store)
+## Selected Application/System
+**Online Shopping Application (Samuel Store – Jewelry E-Commerce)**
+
+---
+
+## Project Overview
+Samuel Store is a mobile shopping application prototype designed in Figma for purchasing jewelry products online. The application provides users with a simple, attractive, and user-friendly shopping experience from browsing products to completing a purchase through an interactive prototype.
 
 ---
 
 ## Problem Statement
-Many small jewelry businesses lack a modern digital platform to showcase and sell their products online. Customers often face difficulty accessing a simple, fast, and user-friendly shopping experience.
 
-This application solves this problem by providing a structured, mobile-friendly e-commerce interface where users can browse products, view details, add items to cart, and complete checkout in a smooth flow.
+### Problem
+Many small jewelry businesses lack a modern digital platform to showcase and sell their products online. Customers also face challenges finding a simple, secure, and user-friendly platform for purchasing jewelry.
+
+### Target Users
+The application is designed for students, young professionals, and adults who prefer purchasing jewelry online using mobile devices or computers.
+
+### Importance of the System
+Samuel Store provides a convenient online shopping experience by allowing users to browse jewelry products, view product details, add items to a shopping cart, and complete the checkout process through an intuitive interface. The system saves time, improves accessibility, and supports digital commerce for jewelry businesses.
 
 ---
 
 ## User Persona
-The system targets young and adult online shoppers who prefer convenient mobile-based shopping for jewelry products.
 
-Key characteristics:
-- Age group: 18–40
-- Tech level: Basic to intermediate
-- Needs: Easy browsing, fast checkout, clear product information
-- Frustrations: Complicated checkout systems, unclear pricing
+**Name:** Theophilus N. Wherdaigar
 
-(See `/user-persona` folder for full persona design)
+**Age:** 24
+
+**Occupation:** University Student
+
+### Goals
+- Buy affordable and quality products online.
+- Save time compared to physical shopping.
+- Easily track orders and payments.
+
+### Challenges
+- Limited budget as a student.
+- Difficulty trusting unknown online sellers.
+- Wants a fast and simple checkout process.
+
+*A visual version of the persona is available in the `/user-persona` folder.*
 
 ---
 
 ## User Flow
-The application follows a simple navigation flow:
 
-Login → Home → Product Details → Cart → Checkout → Payment → Confirmation
+The application follows the user journey below:
 
-(See `/user-flow` folder for diagram)
+**Login → Home → Product Details → Cart → Checkout → Payment → Confirmation**
+
+This flow demonstrates how users navigate from entering the application to successfully completing an order.
+
+*A visual user flow diagram is available in the `/user-flow` folder.*
 
 ---
 
 ## Wireframes (Low-Fidelity Design)
-Wireframes were created to define layout structure before final UI design.
 
-Includes:
-- Login/Register Screen
-- Home Page
-- Product Listing Page
-- Product Details Page
-- Cart Page
-- Checkout Page
+The wireframes were created before the final interface to establish the application's structure and layout.
 
-Focus was on structure and usability without visual styling.
+The wireframes include:
 
-(See `/wireframes` folder)
+- Login Screen
+- Home Screen
+- Product Listing Screen
+- Product Details Screen
+- Cart Screen
+- Checkout Screen
+
+The focus was on layout, navigation, usability, and screen organization before applying colors and visual styling.
+
+(See the `/wireframes` folder.)
 
 ---
 
 ## High-Fidelity UI Design
-Final UI designed using Figma with:
-- Consistent color theme
+
+The final interface was designed using Figma following modern UI/UX principles.
+
+### Design Elements
+- Consistent color scheme
 - Modern typography (Inter/Poppins)
 - Icons and product images
-- Mobile-first responsive layout
 - Proper spacing and alignment
+- Mobile-friendly layouts
+- Consistent user interface across all screens
 
-Screens:
+### Screens Included
 - Splash Screen
 - Login Screen
 - Home Screen
@@ -91,76 +121,109 @@ Screens:
 - Checkout Screen
 - Confirmation Screen
 
-(See `/high-fidelity` folder)
-
----
-
-## Prototype Screens
-This folder contains exported prototype preview images showing full user interaction flow.
-
-(See `/prototype` folder)
+(See the `/high-fidelity` folder.)
 
 ---
 
 ## Interactive Prototype
-A fully clickable prototype was created in Figma demonstrating:
 
-- Splash → Login navigation
-- Login → Home navigation
-- Product selection flow
-- Cart process
+A fully clickable prototype was created using Figma.
+
+The prototype demonstrates:
+
+- Splash Screen to Login
+- Login to Home
+- Product selection
+- Add to Cart
 - Checkout process
-- Confirmation flow
+- Payment confirmation
+- Return to Home
 
----
+The prototype simulates a complete shopping experience.
 
-## Accessibility Considerations
-- Clear typography
-- High contrast colors
-- Consistent UI layout
-- Large touch-friendly buttons
-- Simple navigation structure
+Prototype preview images are available in the `/prototype` folder.
 
 ---
 
 ## Features Implemented
-- Authentication UI
+
+- Splash screen
+- User login interface
 - Product browsing
-- Product details view
-- Cart system UI
-- Checkout system
-- Payment confirmation screen
-- Fully interactive prototype
+- Product details page
+- Shopping cart
+- Checkout interface
+- Payment confirmation
+- Interactive navigation between screens
+- Mobile-first user interface
+
+---
+
+## Accessibility Considerations
+
+The application follows accessibility best practices by providing:
+
+- Readable font sizes
+- High color contrast
+- Clear navigation
+- Touch-friendly buttons
+- Consistent layouts
+- Easy-to-understand interface elements
+
+---
+
+## Design Process
+
+The project followed the following UI/UX workflow:
+
+1. Problem identification
+2. User persona creation
+3. User flow design
+4. Low-fidelity wireframes
+5. High-fidelity interface design
+6. Interactive prototype development
+7. Prototype testing and refinement
 
 ---
 
 ## Challenges Faced
-- Maintaining UI consistency across screens
-- Aligning spacing and layout structure
-- Managing prototype connections correctly in Figma
-- Ensuring smooth navigation flow
+
+During development, the team encountered several challenges, including:
+
+- Maintaining consistency across multiple screens
+- Designing an intuitive mobile shopping experience
+- Creating smooth prototype navigation in Figma
+- Ensuring proper spacing and alignment throughout the interface
 
 ---
 
 ## Conclusion
-This project demonstrates a complete e-commerce UI/UX design process using Figma, covering wireframing, high-fidelity design, and interactive prototyping.
+
+Samuel Store demonstrates a complete UI/UX design process for a modern online jewelry shopping application. The project applies user-centered design principles, accessibility considerations, wireframing, high-fidelity interface design, and interactive prototyping to create a practical and engaging shopping experience.
 
 ---
 
 ## Repository Structure
+
+```text
 /user-flow
 /user-persona
 /wireframes
 /high-fidelity
 /prototype
 README.md
+```
 
 ---
 
 ## Figma Project Link
+
 https://www.figma.com/design/Z9hwQE64J5LxPz3DHr80p4/Online-Shopping-App?node-id=83-34&t=GXpRyMDXT5gQIzc5-1
 
 ---
 
-## Submission Note
-This project follows UNILAK EWA408510 assignment requirements and demonstrates UI/UX design, wireframing, prototyping, and accessibility principles.
+## GitHub Repository
+
+https://github.com/samuelbondo/Online-Shopping-App-Assignment---Figma-Group-9-
+
+---
