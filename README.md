@@ -218,8 +218,7 @@ README.md
 
 ## Figma Project Link
 
-[[https://www.figma.com/design/Z9hwQE64J5LxPz3DHr80p4/Online-Shopping-App?node-id=83-34&t=GXpRyMDXT5gQIzc5-1
-](https://www.figma.com/design/Z9hwQE64J5LxPz3DHr80p4/Online-Shopping-App?node-id=1-2&t=9hW1KF0p9mStr2LA-1)](https://www.figma.com/design/Z9hwQE64J5LxPz3DHr80p4/Online-Shopping-App?node-id=1-2&t=9hW1KF0p9mStr2LA-1)
+https://www.figma.com/design/Z9hwQE64J5LxPz3DHr80p4/Online-Shopping-App?node-id=1-2&t=9hW1KF0p9mStr2LA-1
 ---
 
 ## GitHub Repository
